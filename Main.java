@@ -1,6 +1,10 @@
+
 public class Main{
-    public static void main(String[] args)
+    public static void main (String[] absc)
     {
-        System.out.println("Hello java");
+       String name= "Rhedoy";// first method
+       String friend = new String ("Jisun");// second method
+       System.out.println(name.length());
+       System.out.println(friend.length());
     }
 }
